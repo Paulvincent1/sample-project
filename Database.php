@@ -1,6 +1,7 @@
 <?php
 //connect to our MySQL database.
-//database tweak -nath
+//hgbhghghghg -nath
+//database
 class Database
 {
     public $connection;

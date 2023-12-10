@@ -8,4 +8,6 @@ $heading = 'Contact Us';
 //changes sdfsdf
 //1234565767676
 
+//added contact page -mikyla
+
 require "views/contact.view.php";
