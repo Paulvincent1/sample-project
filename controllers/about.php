@@ -1,7 +1,7 @@
 <?php
 
 
-
+//constructing about page
 
 $heading = 'About us!';
 
