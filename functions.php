@@ -19,3 +19,7 @@ function authorize($condition, $status = Response::FORBIDDEN){
         abort($status);
     }
 }
+
+function sampleTest() {
+	return "Hello"
+}
