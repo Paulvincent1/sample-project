@@ -1,8 +1,14 @@
 <?php
 //-nath
 //connect to our MySQL database.
+<<<<<<< HEAD
+//hgbhghghghg -nath
+//database
+//pizza
+=======
 
 
+>>>>>>> main
 class Database
 {
     public $connection;

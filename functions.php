@@ -1,11 +1,7 @@
 <?php
 //changes again from login
-
-
-
-//labas
-
-
+//dindobells
+//fdfds
 function dd($value)
 {
     echo "<pre>";
