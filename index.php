@@ -5,11 +5,13 @@ require 'Database.php';
 require 'Response.php';
 require 'router.php';
 
+//QWEQWEQWEQWEQWEASD
 
 
 //lorem ipsum
 //added database
-
+//hatdog
+//hamburger
 
 
 
