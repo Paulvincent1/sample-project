@@ -12,6 +12,8 @@ require 'router.php';
 //added database
 //hatdog
 //hamburger
+//jollibee
+//mcdo
 
 
 
