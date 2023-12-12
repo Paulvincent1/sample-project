@@ -1,14 +1,9 @@
 <?php
 //-nath
 //connect to our MySQL database.
-<<<<<<< HEAD
 //hgbhghghghg -nath
 //database
 //pizza
-=======
-
-
->>>>>>> main
 class Database
 {
     public $connection;
@@ -24,7 +19,7 @@ class Database
             PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC
         ]);
     }
-
+//samgyupsal
 
     public function query($query, $params = [])
     {
