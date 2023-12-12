@@ -1,6 +1,7 @@
 <?php
 //changes again from login
 //dindobells
+
 function dd($value)
 {
     echo "<pre>";
