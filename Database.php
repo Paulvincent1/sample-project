@@ -1,6 +1,8 @@
 <?php
 //-nath
 //connect to our MySQL database.
+
+
 class Database
 {
     public $connection;
